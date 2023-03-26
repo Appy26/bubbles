@@ -1,0 +1,817 @@
+{"Body Care":[
+    {
+        "id":1,
+      "name": "Eucalyptus Spearmint",
+      "price": 14.99,
+      "desc": "What it smells like: a day at the spa with your Floral, herbal favorites.",
+     "image":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.21a/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw22111d6f/crop/026353200_crop.jpg?sw=500&sh=600&sm=fit&q=75&yocs=o_s_",
+     "type":"Body Wash",
+     "fragnance":"Fresh"
+    },
+
+    {
+        "id":2,
+      "name": "Ocean",
+      "price": 14.99,
+      "desc": "What it smells like: a day at the spa with your fresh, herbal favorites.",
+     "image":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.21a/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw4d57b151/hires/026237209.jpg?sh=471&yocs=o_s_",
+     "type":"Body Wash",
+     "fragnance":"Fresh"
+    },
+
+    {
+        "id":3,
+      "name": "Bourbon",
+      "price": 34.99,
+      "desc": "What it smells like: a day at the spa with your fresh, herbal favorites.",
+     "image":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.21a/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dwd24bf42a/crop/026552802_crop.jpg?sw=500&sh=600&sm=fit&q=75&yocs=o_s_",
+     "type":"Body Wash",
+     "fragnance":"Fresh"
+    },
+
+    {
+        "id":4,
+      "name": "Pink Pineapple Sunrise",
+      "price": 44.99,
+      "desc": "What it smells like: a day at the spa with your fresh, herbal favorites.",
+     "image":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.21a/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw7376cd5f/crop/026625772_crop.jpg?sw=500&sh=600&sm=fit&q=75&yocs=o_s_",
+     "type":"Body Wash",
+     "fragnance":"Fresh"
+    },
+
+    {
+        "id":5,
+      "name": "Japanese cherry Blossom",
+      "price": 24.99,
+      "desc": "What it smells like: a day at the spa with your fresh, herbal favorites.",
+     "image":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.21a/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw7a9cd531/crop/026438524_crop.jpg?sw=500&sh=600&sm=fit&q=75&yocs=o_s_",
+     "type":"Body Wash",
+     "fragnance":"Fresh"
+    },
+
+    {
+        "id":6,
+      "name": "Lavender Vanilla",
+      "price": 14.99,
+      "desc": "What it smells like: a day at the spa with your fresh, herbal favorites.",
+     "image":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.21a/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw3279864c/crop/026353202_crop.jpg?sw=500&sh=600&sm=fit&q=75&yocs=o_s_",
+     "type":"Shower gel",
+     "fragnance":"Floral"
+    },
+
+    {
+        "id":7,
+      "name": "Noir",
+      "price": 14.99,
+      "desc": "What it smells like: a day at the spa with your Floral, herbal favorites.",
+     "image":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.21a/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dwce73973f/crop/026311425_crop.jpg?sw=500&sh=600&sm=fit&q=75&yocs=o_s_",
+     "type":"Shower gel",
+     "fragnance":"Floral"
+    },
+
+    {
+        "id":8,
+      "name": "Sweet Pea",
+      "price": 24.99,
+      "desc": "What it smells like: a day at the spa with your Floral, herbal favorites.",
+     "image":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.21a/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw70269242/crop/026593649_crop.jpg?sw=500&sh=600&sm=fit&q=75&yocs=o_s_",
+     "type":"Shower gel",
+     "fragnance":"Floral"
+    },
+
+    {
+        "id":9,
+      "name": "TweekWood",
+      "price": 44.99,
+      "desc": "What it smells like: a day at the spa with your Floral, herbal favorites.",
+     "image":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.21a/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dwc6262222/crop/026177563_crop.jpg?sw=500&sh=600&sm=fit&q=75&yocs=o_s_",
+     "type":"Shower gel",
+     "fragnance":"Floral"
+    },
+
+    {
+        "id":10,
+      "name": "Graphite",
+      "price": 24.99,
+      "desc": "What it smells like: a day at the spa with your Floral, herbal favorites.",
+     "image":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.21a/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw46d001df/crop/026307941_crop.jpg?sw=500&sh=600&sm=fit&q=75&yocs=o_s_",
+     "type":"Shower gel",
+     "fragnance":"Floral"
+    },
+
+
+    {
+        "id":11,
+      "name": "Tutti Fruity Candy",
+      "price": 14.99,
+      "desc": "What it smells like: a day at the spa with your Floral, herbal favorites.",
+     "image":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.21a/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dwfff97830/crop/026623638_crop.jpg?sw=500&sh=600&sm=fit&q=75&yocs=o_s_",
+     "type":"Fine Fragrance Mist",
+     "fragnance":"Fruity"
+    },
+
+    {
+        "id":12,
+      "name": "Among The Clouds",
+      "price": 24.99,
+      "desc": "What it smells like: a day at the spa with your Fruity, herbal favorites.",
+     "image":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.21a/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw821ae4a7/crop/026589856_crop.jpg?sw=500&sh=600&sm=fit&q=75&yocs=o_s_",
+     "fragnance":"Fruity"
+    },
+
+    {
+        "id":13,
+      "name": "A Thousands Wishes",
+      "price": 34.99,
+      "desc": "What it smells like: a day at the spa with your Fruity, herbal favorites.",
+     "image":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.21a/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dwd24bf42a/crop/026552802_crop.jpg?sw=500&sh=600&sm=fit&q=75&yocs=o_s_",
+     "type":"Fine Fragrance Mist",
+     "fragnance":"Fruity"
+    },
+
+    {
+        "id":14,
+      "name": "Clean Slate",
+      "price": 44.99,
+      "desc": "What it smells like: a day at the spa with your Fruity, herbal favorites.",
+     "image":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.21a/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw7a9f934f/crop/026590669_crop.jpg?sw=500&sh=600&sm=fit&q=75&yocs=o_s_",
+     "type":"Fine Fragrance Mist",
+     "fragnance":"Fruity"
+    },
+
+    {
+        "id":15,
+      "name": "Coconut Pineapple",
+      "price": 24.99,
+      "desc": "What it smells like: a day at the spa with your Fruity, herbal favorites.",
+     "image":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.21a/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw4ce45a13/crop/026625063_crop.jpg?sw=500&sh=600&sm=fit&q=75&yocs=o_s_",
+     "type":"Fine Fragrance Mist",
+     "fragnance":"Fruity"
+    },
+
+    {
+        "id":16,
+      "name": "Watermelon Mojito",
+      "price": 14.99,
+      "desc": "What it smells like: a day at the spa with your fresh, herbal favorites.",
+     "image":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.21a/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw7bc83a8c/crop/026624896_crop.jpg?sw=500&sh=600&sm=fit&q=75&yocs=o_s_",
+     "type":"Body Cream",
+     "fragnance":"Sweet"
+    },
+
+    {
+        "id":17,
+      "name": "Into The Night",
+      "price": 14.99,
+      "desc": "What it smells like: a day at the spa with your Sweet, herbal favorites.",
+     "image":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.21a/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dwce73973f/crop/026311425_crop.jpg?sw=500&sh=600&sm=fit&q=75&yocs=o_s_",
+     "type":"Body Cream",
+     "fragnance":"Sweet"
+    },
+
+    {
+        "id":18,
+      "name": "Champagne Toast",
+      "price": 24.99,
+      "desc": "What it smells like: a day at the spa with your Sweet, herbal favorites.",
+     "image":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.21a/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dwa824bdac/hires/026583308_alt_1.jpg?sh=413&yocs=o_s_",
+     "type":"Body Cream",
+     "fragnance":"Sweet"
+    },
+
+    {
+        "id":19,
+      "name": "Beautiful Day",
+      "price": 44.99,
+      "desc": "What it smells like: a day at the spa with your Sweet, herbal favorites.",
+     "image":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.21a/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw8356a994/hires/026593423_alt_1.jpg?sh=413&yocs=o_s_",
+     "type":"Body Cream",
+     "fragnance":"Sweet"
+    },
+
+    {
+        "id":20,
+      "name": "Strawberry Pound Cake",
+      "price": 24.99,
+      "desc": "What it smells like: a day at the spa with your Sweet, herbal favorites.",
+     "image":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.21a/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw1e353fd0/crop/026590645_crop.jpg?sw=500&sh=600&sm=fit&q=75&yocs=o_s_",
+     "type":"Body Cream",
+     "fragnance":"Sweet"
+    }
+],
+
+
+
+
+
+"Candles":[{
+    "id":21,
+  "name": "Waikiki Beach Coconut",
+  "price": 14.99,
+  "desc": "What it smells like: a day at the spa with your Floral, herbal favorites.",
+ "image":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.21a/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dwab147f8c/crop/026662241_crop.jpg?sw=500&sh=600&sm=fit&q=75&yocs=o_s_",
+ "type":"3-Wick Candles",
+ "fragnance":"Fresh"
+},
+
+{
+    "id":22,
+  "name": "Sweet Carrot Cake",
+  "price": 14.99,
+  "desc": "What it smells like: a day at the spa with your fresh, herbal favorites.",
+ "image":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.21a/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw526744dd/crop/026662232_crop.jpg?sw=500&sh=600&sm=fit&q=75&yocs=o_s_",
+ "type":"3-Wick Candles",
+ "fragnance":"Fresh"
+},
+
+{
+    "id":23,
+  "name": "Eucalyptus Lavender",
+  "price": 34.99,
+  "desc": "What it smells like: a day at the spa with your fresh, herbal favorites.",
+ "image":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.21a/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw75b48320/crop/026635504_crop.jpg?sw=500&sh=600&sm=fit&q=75&yocs=o_s_",
+ "type":"3-Wick Candles",
+ "fragnance":"Fresh"
+},
+
+{
+    "id":24,
+  "name": "Tutti Fruity Candy",
+  "price": 44.99,
+  "desc": "What it smells like: a day at the spa with your fresh, herbal favorites.",
+ "image":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.21a/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw3b7e5dba/crop/026662231_crop.jpg?sw=500&sh=600&sm=fit&q=75&yocs=o_s_",
+ "type":"3-Wick Candles",
+ "fragnance":"Fresh"
+},
+
+{
+    "id":25,
+  "name": "Rose Vanila",
+  "price": 24.99,
+  "desc": "What it smells like: a day at the spa with your fresh, herbal favorites.",
+ "image":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.21a/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dwd3ecf11f/crop/026636308_crop.jpg?sw=500&sh=600&sm=fit&q=75&yocs=o_s_",
+ "type":"3-Wick Candles",
+ "fragnance":"Fresh"
+},
+
+{
+    "id":26,
+  "name": "Lavender Vanilla",
+  "price": 14.99,
+  "desc": "What it smells like: a day at the spa with your fresh, herbal favorites.",
+ "image":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.21a/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dwafcbef96/crop/026634409_crop.jpg?sw=500&sh=600&sm=fit&q=75&yocs=o_s_",
+ "type":"Signature Single Wick Candles",
+ "fragnance":"Floral"
+},
+
+{
+    "id":27,
+  "name": "Noir",
+  "price": 14.99,
+  "desc": "What it smells like: a day at the spa with your Floral, herbal favorites.",
+ "image":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.21a/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw1a99152e/crop/026653542_crop.jpg?sw=500&sh=600&sm=fit&q=75&yocs=o_s_",
+ "type":"Signature Single Wick Candles",
+ "fragnance":"Floral"
+},
+
+{
+    "id":28,
+  "name": "Sweet Pea",
+  "price": 24.99,
+  "desc": "What it smells like: a day at the spa with your Floral, herbal favorites.",
+ "image":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.21a/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw1d19aff4/crop/026633949_crop.jpg?sw=500&sh=600&sm=fit&q=75&yocs=o_s_",
+ "type":"Signature Single Wick Candles",
+ "fragnance":"Floral"
+},
+
+{
+    "id":29,
+  "name": "TweekWood",
+  "price": 44.99,
+  "desc": "What it smells like: a day at the spa with your Floral, herbal favorites.",
+ "image":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.21a/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw28e36246/crop/026653543_crop.jpg?sw=500&sh=600&sm=fit&q=75&yocs=o_s_",
+ "type":"Signature Single Wick Candles",
+ "fragnance":"Floral"
+},
+
+{
+    "id":30,
+  "name": "Graphite",
+  "price": 24.99,
+  "desc": "What it smells like: a day at the spa with your Floral, herbal favorites.",
+ "image":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.21a/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw4411ec87/crop/026630631_crop.jpg?sw=500&sh=600&sm=fit&q=75&yocs=o_s_",
+ "type":"Signature Single Wick Candles",
+ "fragnance":"Floral"
+},
+
+
+{
+    "id":31,
+  "name": "Tutti Fruity Candy",
+  "price": 14.99,
+  "desc": "What it smells like: a day at the spa with your Floral, herbal favorites.",
+ "image":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.21a/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dwa8f9082e/crop/026624682_crop.jpg?sw=500&sh=600&sm=fit&q=75&yocs=o_s_",
+ "type":"Mason Single Wick Candles",
+ "fragnance":"Fruity"
+},
+
+{
+    "id":32,
+  "name": "Among The Clouds",
+  "price": 24.99,
+  "desc": "What it smells like: a day at the spa with your Fruity, herbal favorites.",
+ "image":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.21a/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw0aadefc4/crop/026636273_crop.jpg?sw=500&sh=600&sm=fit&q=75&yocs=o_s_",
+ "fragnance":"Fruity"
+},
+
+{
+    "id":33,
+  "name": "A Thousands Wishes",
+  "price": 34.99,
+  "desc": "What it smells like: a day at the spa with your Fruity, herbal favorites.",
+ "image":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.21a/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw14e6434c/crop/026626713_crop.jpg?sw=500&sh=600&sm=fit&q=75&yocs=o_s_",
+ "type":"Mason Single Wick Candles",
+ "fragnance":"Fruity"
+},
+
+{
+    "id":34,
+  "name": "Clean Slate",
+  "price": 44.99,
+  "desc": "What it smells like: a day at the spa with your Fruity, herbal favorites.",
+ "image":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.21a/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw7a9f934f/crop/026590669_crop.jpg?sw=500&sh=600&sm=fit&q=75&yocs=o_s_",
+ "type":"Mason Single Wick Candles",
+ "fragnance":"Fruity"
+},
+
+{
+    "id":35,
+  "name": "Coconut Pineapple",
+  "price": 24.99,
+  "desc":"What it smells like: a day at the spa with your Fruity, herbal favorites.",
+ "image":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.21a/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw703f302b/crop/026626710_crop.jpg?sw=500&sh=600&sm=fit&q=75&yocs=o_s_",
+ "type":"Mason Single Wick Candles",
+ "fragnance":"Fruity"
+},
+
+{
+    "id":36,
+  "name": "Watermelon Mojito",
+  "price": 14.99,
+  "desc": "What it smells like: a day at the spa with your fresh, herbal favorites.",
+ "image":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.21a/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw03257628/crop/026638340_crop.jpg?sw=500&sh=600&sm=fit&q=75&yocs=o_s_",
+ "type":"3-wick Candles",
+ "fragnance":"Sweet"
+},
+
+{
+    "id":37,
+  "name": "Into The Night",
+  "price": 14.99,
+  "desc": "What it smells like: a day at the spa with your Sweet, herbal favorites.",
+ "image":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.21a/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dwd9a063ea/crop/026658300_crop.jpg?sw=500&sh=600&sm=fit&q=75&yocs=o_s_",
+ "type":"3-wick Candles",
+ "fragnance":"Sweet"
+},
+
+{
+    "id":38,
+  "name": "Champagne Toast",
+  "price": 24.99,
+  "desc": "What it smells like: a day at the spa with your Sweet, herbal favorites.",
+ "image":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.21a/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dwa2301d2b/crop/026636272_crop.jpg?sw=500&sh=600&sm=fit&q=75&yocs=o_s_",
+ "type":"Signature Single Wick Candles",
+ "fragnance":"Sweet"
+},
+
+{
+    "id":39,
+  "name": "Beautiful Day",
+  "price": 44.99,
+  "desc": "What it smells like: a day at the spa with your Sweet, herbal favorites.",
+ "image":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.21a/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw0c1faa9c/crop/026633943_crop.jpg?sw=500&sh=600&sm=fit&q=75&yocs=o_s_",
+ "type":"Signature Single Wick Candles",
+ "fragnance":"Sweet"
+},
+
+{
+    "id":40,
+  "name": "Strawberry Pound Cake",
+  "price": 24.99,
+  "desc": "What it smells like: a day at the spa with your Sweet, herbal favorites.",
+ "image":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.21a/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw2924da21/crop/026658397_crop.jpg?sw=500&sh=600&sm=fit&q=75&yocs=o_s_",
+ "type":"Mason Single Wick Candles",
+ "fragnance":"Sweet"
+}
+],
+
+
+"Air Freshners":[{
+    "id":41,
+  "name": "Lavender Vanilla",
+  "price": 14.99,
+  "desc": "What it smells like: a day at the spa with your Floral, herbal favorites.",
+ "image":"https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw28e4bd51/large/026411736.jpg",
+ "type":"Fragrance Refill",
+ "fragnance":"Fresh"
+},
+
+{
+    "id":42,
+  "name": "Eucalyptus Spearmint",
+  "price": 14.99,
+  "desc": "What it smells like: a day at the spa with your fresh, herbal favorites.",
+ "image":"https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwb85fc2a0/large/026208145.jpg",
+ "type":"Fragrance Refill",
+ "fragnance":"Fresh"
+},
+
+{
+    "id":43,
+  "name": "Eucalyptus Lavender",
+  "price": 34.99,
+  "desc": "What it smells like: a day at the spa with your fresh, herbal favorites.",
+ "image":"https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw7dd963aa/large/026562187.jpg",
+ "type":"Fragrance Refill",
+ "fragnance":"Fresh"
+},
+
+{
+    "id":44,
+  "name": "Dark Kiss",
+  "price": 44.99,
+  "desc": "What it smells like: a day at the spa with your fresh, herbal favorites.",
+ "image":"https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw26ca6cd8/large/026438811.jpg",
+ "type":"Fragrance Refill",
+ "fragnance":"Fresh"
+},
+
+{
+    "id":45,
+  "name": "Bargamot Water Enhanced",
+  "price": 24.99,
+  "desc": "What it smells like: a day at the spa with your fresh, herbal favorites.",
+ "image":"https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw33563cdf/large/026397348.jpg",
+ "type":"Fragrance Refill",
+ "fragnance":"Fresh"
+},
+
+{
+    "id":46,
+  "name": "A Thousands Wishes",
+  "price": 14.99,
+  "desc": "What it smells like: a day at the spa with your fresh, herbal favorites.",
+ "image":"https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwee4844f0/large/026558905.jpg",
+ "type":"Fragrance Refill",
+ "fragnance":"Floral"
+},
+
+{
+    "id":47,
+  "name": "Gingham",
+  "price": 14.99,
+  "desc": "What it smells like: a day at the spa with your Floral, herbal favorites.",
+ "image":"https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw9398ba84/large/026208139.jpg",
+ "type":"Fragrance Refill",
+ "fragnance":"Floral"
+},
+
+{
+    "id":48,
+  "name": "Sweet Pea",
+  "price": 24.99,
+  "desc": "What it smells like: a day at the spa with your Floral, herbal favorites.",
+ "image":"https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwbf9b72ba/large/026394695.jpg",
+ "type":"Fragrance Refill",
+ "fragnance":"Floral"
+},
+
+{
+    "id":49,
+  "name": "TweekWood",
+  "price": 44.99,
+  "desc": "What it smells like: a day at the spa with your Floral, herbal favorites.",
+ "image":"https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwf34d1726/large/026578851.jpg",
+ "type":"Fragrance Refill",
+ "fragnance":"Floral"
+},
+
+{
+    "id":50,
+  "name": "Japanese cherry Blossom",
+  "price": 24.99,
+  "desc": "What it smells like: a day at the spa with your Floral, herbal favorites.",
+ "image":"https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw21671b9a/large/026208115.jpg",
+ "type":"Fragrance Refill",
+ "fragnance":"Floral"
+},
+
+
+{
+    "id":51,
+  "name": "Tutti Fruity Candy",
+  "price": 14.99,
+  "desc": "What it smells like: a day at the spa with your Floral, herbal favorites.",
+ "image":"https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwf7a5479a/large/026397314.jpg",
+ "type":"Fragrance Refill",
+ "fragnance":"Fruity"
+},
+
+{
+    "id":52,
+  "name": "Among The Clouds",
+  "price": 24.99,
+  "desc": "What it smells like: a day at the spa with your Fruity, herbal favorites.",
+ "image":"https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw62679cd3/large/026203995.jpg",
+ "type":"Room Spray",
+ "fragnance":"Fruity"
+},
+
+{
+    "id":53,
+  "name": "A Thousands Wishes",
+  "price": 34.99,
+  "desc": "What it smells like: a day at the spa with your Fruity, herbal favorites.",
+ "image":"https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw80cc9ce3/large/026302253.jpg",
+ "type":"Room Spray",
+ "fragnance":"Fruity"
+},
+
+{
+    "id":54,
+  "name": "Clean Slate",
+  "price": 44.99,
+  "desc": "What it smells like: a day at the spa with your Fruity, herbal favorites.",
+ "image":"https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwc4d69675/large/026302258.jpg",
+ "type":"Room Spray",
+ "fragnance":"Fruity"
+},
+
+{
+    "id":55,
+  "name": "Coconut Pineapple",
+  "price": 24.99,
+  "desc":"What it smells like: a day at the spa with your Fruity, herbal favorites.",
+ "image":"https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw5411973e/large/026049908.jpg",
+ "type":"Room Spray",
+ "fragnance":"Fruity"
+},
+
+{
+    "id":56,
+  "name": "Watermelon Mojito",
+  "price": 14.99,
+  "desc": "What it smells like: a day at the spa with your fresh, herbal favorites.",
+ "image":"https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw79901a68/large/026302252.jpg",
+ "type":"Room Spray",
+ "fragnance":"Sweet"
+},
+
+{
+    "id":57,
+  "name": "Into The Night",
+  "price": 14.99,
+  "desc": "What it smells like: a day at the spa with your Sweet, herbal favorites.",
+ "image":"https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw41fa0060/large/026302266.jpg",
+ "type":"Room Spray",
+ "fragnance":"Sweet"
+},
+
+{
+    "id":58,
+  "name": "Champagne Toast",
+  "price": 24.99,
+  "desc": "What it smells like: a day at the spa with your Sweet, herbal favorites.",
+ "image":"https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwe08fa91f/large/026049912.jpg",
+ "type":"Room Spray",
+ "fragnance":"Sweet"
+},
+
+{
+    "id":59,
+  "name": "Beautiful Day",
+  "price": 44.99,
+  "desc": "What it smells like: a day at the spa with your Sweet, herbal favorites.",
+ "image":"https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwb88a3f7c/large/026049909.jpg",
+ "type":"Room Spray",
+ "fragnance":"Sweet"
+},
+
+{
+    "id":60,
+  "name": "Strawberry Pound Cake",
+  "price": 24.99,
+  "desc": "What it smells like: a day at the spa with your Sweet, herbal favorites.",
+ "image":"https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw4da44173/large/026302265.jpg",
+ "type":"Room Spray",
+ "fragnance":"Sweet"
+}
+],
+
+
+
+"Handshop":[{
+  "id":61,
+"name": "Lavender Vanilla",
+"price": 14.99,
+"desc": "What it smells like: a day at the spa with your Floral, herbal favorites.",
+"image":"https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwcf597470/large/026529153.jpg",
+"type":"Foaming Handshop",
+"fragnance":"Fresh"
+},
+
+{
+  "id":62,
+"name": "Eucalyptus Spearmint",
+"price": 14.99,
+"desc": "What it smells like: a day at the spa with your fresh, herbal favorites.",
+"image":"https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwe3ebc827/large/026455859.jpg",
+"type":"Foaming Handshop",
+"fragnance":"Fresh"
+},
+
+{
+  "id":63,
+"name": "Eucalyptus Lavender",
+"price": 34.99,
+"desc": "What it smells like: a day at the spa with your fresh, herbal favorites.",
+"image":"https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwb2e67c12/large/026416317.jpg",
+"type":"Foaming Handshop",
+"fragnance":"Fresh"
+},
+
+{
+  "id":64,
+"name": "Dark Kiss",
+"price": 44.99,
+"desc": "What it smells like: a day at the spa with your fresh, herbal favorites.",
+"image":"https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwa2085058/large/026416311.jpg",
+"type":"Foaming Handshop",
+"fragnance":"Fresh"
+},
+
+{
+  "id":65,
+"name": "Bargamot Water Enhanced",
+"price": 24.99,
+"desc": "What it smells like: a day at the spa with your fresh, herbal favorites.",
+"image":"https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwf493b0bb/large/026529149.jpg",
+"type":"Foaming Handshop",
+"fragnance":"Fresh"
+},
+
+{
+  "id":66,
+"name": "A Thousands Wishes",
+"price": 14.99,
+"desc": "What it smells like: a day at the spa with your fresh, herbal favorites.",
+"image":"https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw746686d4/large/026410945.jpg",
+"type":"Foaming Handshop",
+"fragnance":"Floral"
+},
+
+{
+  "id":67,
+"name": "Gingham",
+"price": 14.99,
+"desc": "What it smells like: a day at the spa with your Floral, herbal favorites.",
+"image":"https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwc86a673c/large/026393065.jpg",
+"type":"Foaming Handshop",
+"fragnance":"Floral"
+},
+
+{
+  "id":68,
+"name": "Sweet Pea",
+"price": 24.99,
+"desc": "What it smells like: a day at the spa with your Floral, herbal favorites.",
+"image":"https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw9068eb8e/large/026448197.jpg",
+"type":"Cleansing Gel Handshop",
+"fragnance":"Floral"
+},
+
+{
+  "id":69,
+"name": "TweekWood",
+"price": 44.99,
+"desc": "What it smells like: a day at the spa with your Floral, herbal favorites.",
+"image":"https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw99a49cb8/large/026442802.jpg",
+"type":"Cleansing Gel Handshop",
+"fragnance":"Floral"
+},
+
+{
+  "id":70,
+"name": "Japanese cherry Blossom",
+"price": 24.99,
+"desc": "What it smells like: a day at the spa with your Floral, herbal favorites.",
+"image":"https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw8aeee7e9/large/026442804.jpg",
+"type":"Cleansing Gel Handshop",
+"fragnance":"Floral"
+},
+
+
+{
+  "id":71,
+"name": "Tutti Fruity Candy",
+"price": 14.99,
+"desc": "What it smells like: a day at the spa with your Floral, herbal favorites.",
+"image":"https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw72d99ba4/large/026448199.jpg",
+"type":"Cleansing Gel Handshop",
+"fragnance":"Fruity"
+},
+
+{
+  "id":72,
+"name": "Among The Clouds",
+"price": 24.99,
+"desc": "What it smells like: a day at the spa with your Fruity, herbal favorites.",
+"image":"https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwbefe54a0/large/026448196.jpg",
+"type":"Pocket Sanitizer",
+"fragnance":"Fruity"
+},
+
+{
+  "id":73,
+"name": "A Thousands Wishes",
+"price": 34.99,
+"desc": "What it smells like: a day at the spa with your Fruity, herbal favorites.",
+"image":"https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw80cc9ce3/large/026302253.jpg",
+"type":"Pocket Sanitizer",
+"fragnance":"Fruity"
+},
+
+{
+  "id":74,
+"name": "Clean Slate",
+"price": 44.99,
+"desc": "What it smells like: a day at the spa with your Fruity, herbal favorites.",
+"image":"https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwc4d69675/large/026302258.jpg",
+"type":"Pocket Sanitizer",
+"fragnance":"Fruity"
+},
+
+{
+  "id":75,
+"name": "Coconut Pineapple",
+"price": 24.99,
+"desc":"What it smells like: a day at the spa with your Fruity, herbal favorites.",
+"image":"https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwdfe7397f/large/026439899.jpg",
+"type":"Pocket Sanitizer",
+"fragnance":"Fruity"
+},
+
+{
+  "id":76,
+"name": "Watermelon Mojito",
+"price": 14.99,
+"desc": "What it smells like: a day at the spa with your fresh, herbal favorites.",
+"image":"https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw72d99ba4/large/026448199.jpg",
+"type":"Pocket Sanitizer",
+"fragnance":"Sweet"
+},
+
+{
+  "id":77,
+"name": "Into The Night",
+"price": 14.99,
+"desc": "What it smells like: a day at the spa with your Sweet, herbal favorites.",
+"image":"https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwb7c5a3c7/large/026449704.jpg",
+"type":"Pocket Sanitizer",
+"fragnance":"Sweet"
+},
+{
+  "id":78,
+"name": "Champagne Toast",
+"price": 24.99,
+"desc": "What it smells like: a day at the spa with your Sweet, herbal favorites.",
+"image":"https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwb7c5a3c7/large/026449704.jpg",
+"type":"Pocket Sanitizer",
+"fragnance":"Sweet"
+},
+
+{
+  "id":79,
+"name": "Beautiful Day",
+"price": 44.99,
+"desc": "What it smells like: a day at the spa with your Sweet, herbal favorites.",
+"image":"https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dwcf78b8c0/large/026449706.jpg",
+"type":"Cleansing Gel Handshop",
+"fragnance":"Sweet"
+},
+
+{
+  "id":80,
+"name": "Strawberry Pound Cake",
+"price": 24.99,
+"desc": "What it smells like: a day at the spa with your Sweet, herbal favorites.",
+"image":"https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw8aeee7e9/large/026442804.jpg",
+"type":"Cleansing Gel Handshop",
+"fragnance":"Sweet"
+}
+]
+}
+
+
+
+
