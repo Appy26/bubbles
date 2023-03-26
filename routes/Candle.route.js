@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 const express = require('express');
-const {CandleModel}=require("../Models/Candle.model")
+const {CandleModel}=require("../models/Candle.model")
 
 
 const CandleRoute=express.Router()

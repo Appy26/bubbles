@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 const express = require('express');
-const { HandShopModel } = require('../Models/HandShop.model');
+const { HandShopModel } = require('../models/HandShop.model');
 
 
 const HandShopRoute=express.Router()

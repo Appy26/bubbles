@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 const express = require('express');
-const { AirFreshnerModel } = require('../Models/Airfreshner.model');
+const { AirFreshnerModel } = require('../models/Airfreshner.model');
 
 
 const AirFreshnerRoute=express.Router()

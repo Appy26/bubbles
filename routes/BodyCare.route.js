@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 const express = require('express');
-const { BodyCareModel } = require('../Models/Bodycare.model');
+const { BodyCareModel } = require('../models/Bodycare.model');
 
 
 const BDRoute=express.Router()
