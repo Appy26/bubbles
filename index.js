@@ -1,13 +1,13 @@
 const express = require('express');
 require("dotenv").config()
-const{connection}=require("./Configs/db");
-const { authenticate } = require('./Middleware/authenticate');
-const { AirFreshnerRoute } = require('./Routes/AirFreshner.route');
-const { BDRoute } = require('./Routes/BodyCare.route');
-const { CandleRoute } = require('./Routes/Candle.route');
-const { CartRoute } = require('./Routes/cart.route');
-const { HandShopRoute } = require('./Routes/HandShop.Route');
-const{UserRoute}=require("./Routes/user.route")
+const{connection}=require("./configs/db");
+const { authenticate } = require('./middleware/authenticate');
+const { AirFreshnerRoute } = require('./routes/AirFreshner.route');
+const { BDRoute } = require('./routes/BodyCare.route');
+const { CandleRoute } = require('./routes/Candle.route');
+const { CartRoute } = require('./routes/cart.route');
+const { HandShopRoute } = require('./routes/HandShop.Route');
+const{UserRoute}=require("./routes/user.route")
 const cors = require('cors');
 
 const app=express()
